@@ -19,5 +19,6 @@ public class CustomerDeleteServlet extends HttpServlet {
     @Override
     protected void doDelete(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         // TODO
+        // FIX ME
     }
 }
